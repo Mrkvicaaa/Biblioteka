@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "488202287418",
+    "project_id": "knjizara-5a4c9",
+    "storage_bucket": "knjizara-5a4c9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488202287418:android:2890da9574ed087ea8b803",
+        "android_client_info": {
+          "package_name": "com.example.knjizara"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyQwc9JSSxBtodYnTrVKErM8V3YIbKDsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Knjizara</string>
+    <string name="otvori_navigaciju">Otvori navigaciju</string>
+    <string name="zatvori_navigaciju">Zatvori navigaciju</string>
+</resources>
